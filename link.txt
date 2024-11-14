@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>COURSE DETAILS</title>
+</headS>
+<h4 style="color:blue;">course details</h4>
+<table border="1">
+<tr>
+<th>course</th>
+<th>duration</th>
+<th>fees</th>
+</tr>
+<tr>
+<td>Mechanical engineering</td>
+<td>4 years</td>
+<td>200000</td>
+</tr>
+<tr>
+<td>Civil engineering</td>
+<td>4 years</td>
+<td>300000</td>
+</tr>
+<tr>
+<td>Computer science and engineering</td>
+<td>4 years</td>
+<td>300000</td>
+</tr>
+<tr>
+<td>Electronics and biomedical engineering</td>
+<td>4 years</td>
+<td>300000</td>
+</tr>
+<tr>
+<td>robotics and automation</td>
+<td>4 years</td>
+<td>300000</td>
+</tr>
+<tr>
+<td>MBA</td>
+<td>2 years</td>
+<td>300000</td>
+</tr>
+<tr>
+<td>MCA</td>
+<td>2 years</td>
+<td>200000</td>
+</tr>
